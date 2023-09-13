@@ -1,0 +1,15 @@
+G:\c#projects\ConsoleApp1\loop\bin\Debug\net5.0\loop.exe
+G:\c#projects\ConsoleApp1\loop\bin\Debug\net5.0\loop.deps.json
+G:\c#projects\ConsoleApp1\loop\bin\Debug\net5.0\loop.runtimeconfig.json
+G:\c#projects\ConsoleApp1\loop\bin\Debug\net5.0\loop.runtimeconfig.dev.json
+G:\c#projects\ConsoleApp1\loop\bin\Debug\net5.0\loop.dll
+G:\c#projects\ConsoleApp1\loop\bin\Debug\net5.0\ref\loop.dll
+G:\c#projects\ConsoleApp1\loop\bin\Debug\net5.0\loop.pdb
+G:\c#projects\ConsoleApp1\loop\obj\Debug\net5.0\loop.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#projects\ConsoleApp1\loop\obj\Debug\net5.0\loop.AssemblyInfoInputs.cache
+G:\c#projects\ConsoleApp1\loop\obj\Debug\net5.0\loop.AssemblyInfo.cs
+G:\c#projects\ConsoleApp1\loop\obj\Debug\net5.0\loop.csproj.CoreCompileInputs.cache
+G:\c#projects\ConsoleApp1\loop\obj\Debug\net5.0\loop.dll
+G:\c#projects\ConsoleApp1\loop\obj\Debug\net5.0\ref\loop.dll
+G:\c#projects\ConsoleApp1\loop\obj\Debug\net5.0\loop.pdb
+G:\c#projects\ConsoleApp1\loop\obj\Debug\net5.0\loop.genruntimeconfig.cache
